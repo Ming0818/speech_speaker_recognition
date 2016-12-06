@@ -1,0 +1,405 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.2.22)  20 APR 2015 19:59
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 2 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen105
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks16
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks17
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+) (./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count100
+\scratchdimen=\dimen114
+\scratchbox=\box28
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen115
+\MPnumerator=\count104
+\makeMPintoPDFobject=\count105
+\everyMPtoPDFconversion=\toks21
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+<logo.jpg, id=1, 71.42685pt x 71.42685pt>
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 11.
+(pdftex.def)             Requested size: 113.81102pt x 113.81772pt.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo.jpg>]
+Overfull \hbox (5.26675pt too wide) in paragraph at lines 25--26
+\OT1/cmr/m/n/12 In the first part of the Lab, the Mel Fre-quency Cep-strum Co-e
+f-fi-cients (MFCCs)
+ []
+
+<../frames.png, id=8, 971.3088pt x 495.7722pt>
+File: ../frames.png Graphic file (type png)
+ <use ../frames.png>
+Package pdftex.def Info: ../frames.png used on input line 32.
+(pdftex.def)             Requested size: 388.51665pt x 198.30536pt.
+ [1 <../frames.png>]
+Overfull \hbox (16.88222pt too wide) in paragraph at lines 54--56
+\OT1/cmr/m/n/12 In or-der to achieve the pre-emphasis equa-tion we have to set 
+$\OML/cmm/m/it/12 a[] \OT1/cmr/m/n/12 = 1$, $\OML/cmm/m/it/12 a[]; [] ; a[] \OT
+1/cmr/m/n/12 =
+ []
+
+<../preemph.png, id=21, 975.645pt x 487.0998pt>
+File: ../preemph.png Graphic file (type png)
+ <use ../preemph.png>
+Package pdftex.def Info: ../preemph.png used on input line 58.
+(pdftex.def)             Requested size: 390.25108pt x 194.83646pt.
+
+<../hamming.png, id=22, 992.9898pt x 511.6716pt>
+File: ../hamming.png Graphic file (type png)
+ <use ../hamming.png>
+Package pdftex.def Info: ../hamming.png used on input line 68.
+(pdftex.def)             Requested size: 297.89923pt x 153.50266pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2 <../preemph.png>] <../windowed.png, id=27, 979.9812pt x 487.0998pt>
+File: ../windowed.png Graphic file (type png)
+
+<use ../windowed.png>
+Package pdftex.def Info: ../windowed.png used on input line 76.
+(pdftex.def)             Requested size: 391.98553pt x 194.83646pt.
+
+Overfull \hbox (1.98553pt too wide) in paragraph at lines 76--77
+[][] 
+ []
+
+[3 <../hamming.png> <../windowed.png>]
+<fig5_big.png, id=33, 732.7375pt x 475.7775pt>
+File: fig5_big.png Graphic file (type png)
+ <use fig5_big.png>
+Package pdftex.def Info: fig5_big.png used on input line 86.
+(pdftex.def)             Requested size: 366.36786pt x 237.88815pt.
+
+<../spec.png, id=34, 981.4266pt x 450.9648pt>
+File: ../spec.png Graphic file (type png)
+ <use ../spec.png>
+Package pdftex.def Info: ../spec.png used on input line 94.
+(pdftex.def)             Requested size: 392.56369pt x 180.38272pt.
+
+Overfull \hbox (2.56369pt too wide) in paragraph at lines 94--95
+[][] 
+ []
+
+<../logspec.png, id=35, 977.0904pt x 448.074pt>
+File: ../logspec.png Graphic file (type png)
+ <use ../logspec.png>
+Package pdftex.def Info: ../logspec.png used on input line 100.
+(pdftex.def)             Requested size: 390.82924pt x 179.22641pt.
+
+Overfull \hbox (0.82924pt too wide) in paragraph at lines 100--101
+[][] 
+ []
+
+[4 <./fig5_big.png>] [5 <../spec.png> <../logspec.png>]
+<../filterbank.png, id=47, 1013.2254pt x 504.4446pt>
+File: ../filterbank.png Graphic file (type png)
+ <use ../filterbank.png>
+Package pdftex.def Info: ../filterbank.png used on input line 112.
+(pdftex.def)             Requested size: 405.28297pt x 201.77426pt.
+
+Overfull \hbox (15.28297pt too wide) in paragraph at lines 112--113
+ [][] 
+ []
+
+<../mspec.png, id=48, 790.6338pt x 521.7894pt>
+File: ../mspec.png Graphic file (type png)
+ <use ../mspec.png>
+Package pdftex.def Info: ../mspec.png used on input line 119.
+(pdftex.def)             Requested size: 316.24791pt x 208.71205pt.
+
+<../mfcc.png, id=49, 661.9932pt x 526.1256pt>
+File: ../mfcc.png Graphic file (type png)
+ <use ../mfcc.png>
+Package pdftex.def Info: ../mfcc.png used on input line 129.
+(pdftex.def)             Requested size: 264.79259pt x 210.4465pt.
+ [6 <../filterbank.png>] [7 <../mspec.png> <../mfcc.png>]
+<../mfccs.png, id=60, 857.1222pt x 523.2348pt>
+File: ../mfccs.png Graphic file (type png)
+ <use ../mfccs.png>
+Package pdftex.def Info: ../mfccs.png used on input line 140.
+(pdftex.def)             Requested size: 342.8428pt x 209.2902pt.
+
+<../mfccs1.png, id=61, 865.7946pt x 529.0164pt>
+File: ../mfccs1.png Graphic file (type png)
+ <use ../mfccs1.png>
+Package pdftex.def Info: ../mfccs1.png used on input line 147.
+(pdftex.def)             Requested size: 346.3117pt x 211.6028pt.
+ [8 <../mfccs.png>] <../correlation.png, id=66, 604.1772pt x 533.3526pt>
+File: ../correlation.png Graphic file (type png)
+
+<use ../correlation.png>
+Package pdftex.def Info: ../correlation.png used on input line 169.
+(pdftex.def)             Requested size: 241.6666pt x 213.33725pt.
+ <../correlation1.png, id=67, 625.8582pt x 529.0164pt>
+File: ../correlation1.png Graphic file (type png)
+
+<use ../correlation1.png>
+Package pdftex.def Info: ../correlation1.png used on input line 176.
+(pdftex.def)             Requested size: 250.33884pt x 211.6028pt.
+ [9 <../mfccs1.png>] [10 <../correlation.png> <../correlation1.png>] <../probs.
+png, id=77, 845.559pt x 521.7894pt>
+File: ../probs.png Graphic file (type png)
+
+<use ../probs.png>
+Package pdftex.def Info: ../probs.png used on input line 189.
+(pdftex.def)             Requested size: 422.77847pt x 260.89406pt.
+
+Overfull \hbox (32.77847pt too wide) in paragraph at lines 189--190
+ [][] 
+ []
+
+<../probs1.png, id=78, 857.1222pt x 527.571pt>
+File: ../probs1.png Graphic file (type png)
+ <use ../probs1.png>
+Package pdftex.def Info: ../probs1.png used on input line 196.
+(pdftex.def)             Requested size: 428.56004pt x 263.78485pt.
+
+Overfull \hbox (38.56004pt too wide) in paragraph at lines 196--197
+ [][] 
+ []
+
+[11 <../probs.png>] [12 <../probs1.png>] [13]
+<../global_distances_colorbar.png, id=91, 602.7318pt x 510.2262pt>
+File: ../global_distances_colorbar.png Graphic file (type png)
+
+<use ../global_distances_colorbar.png>
+Package pdftex.def Info: ../global_distances_colorbar.png used on input line 21
+6.
+(pdftex.def)             Requested size: 301.36516pt x 255.11247pt.
+
+<../dendrogram.png, id=92, 777.90625pt x 1435.3625pt>
+File: ../dendrogram.png Graphic file (type png)
+ <use ../dendrogram.png>
+Package pdftex.def Info: ../dendrogram.png used on input line 255.
+(pdftex.def)             Requested size: 311.15698pt x 574.13484pt.
+
+
+LaTeX Warning: Float too large for page by 8.96815pt on input line 258.
+
+<../D_std.png, id=93, 608.5134pt x 533.3526pt>
+File: ../D_std.png Graphic file (type png)
+ <use ../D_std.png>
+Package pdftex.def Info: ../D_std.png used on input line 262.
+(pdftex.def)             Requested size: 273.82849pt x 240.00644pt.
+
+<../D_probs.png, id=94, 604.1772pt x 530.4618pt>
+File: ../D_probs.png Graphic file (type png)
+ <use ../D_probs.png>
+Package pdftex.def Info: ../D_probs.png used on input line 269.
+(pdftex.def)             Requested size: 271.87723pt x 238.7056pt.
+
+<../dendrogram_probs.png, id=95, 779.91376pt x 1397.22pt>
+File: ../dendrogram_probs.png Graphic file (type png)
+
+<use ../dendrogram_probs.png>
+Package pdftex.def Info: ../dendrogram_probs.png used on input line 276.
+(pdftex.def)             Requested size: 311.95998pt x 558.87811pt.
+
+
+LaTeX Warning: Float too large for page by 8.21143pt on input line 279.
+
+[14 <../global_distances_colorbar.png>] [15 <../dendrogram.png>] [16 <../D_std.
+png>] [17 <../D_probs.png>] [18 <../dendrogram_probs.png>] (./report.aux) ) 
+Here is how much of TeX's memory you used:
+ 2228 strings out of 495031
+ 30263 string characters out of 6181531
+ 89477 words of memory out of 5000000
+ 5403 multiletter control sequences out of 15000+600000
+ 9369 words of font info for 34 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 38i,15n,23p,981b,221s stack positions out of 5000i,500n,10000p,200000b,80000s
+</us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti
+12.pfb>
+Output written on report.pdf (19 pages, 8558537 bytes).
+PDF statistics:
+ 150 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+
