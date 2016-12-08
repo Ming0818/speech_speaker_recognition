@@ -1,0 +1,5 @@
+Using gpu device 0: GeForce GT 520M
+[2015-05-30 15:03:10.097709] > ... setting up the model and loading parameters
+[2015-05-30 15:03:10.688612] > ... getting the feat-extraction function
+[2015-05-30 15:03:10.863870] > ... generating features from the specified layer
+[2015-05-30 15:04:45.844319] > ... the features are stored in dnn256_256_256_256_0.3_100.classify.pickle.gz
