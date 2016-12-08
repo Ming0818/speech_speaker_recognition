@@ -1,3 +1,4 @@
 PROJECT/128_128_0.3_100/dnn128_128_0.3_100.classify.pickle.gz filter=lfs diff=lfs merge=lfs -text
 Lab_3/dt2118_lab2_2015-04-30/tools/train_data.txt filter=lfs diff=lfs merge=lfs -text
 Lab_3/dt2118_lab2_2015-04-30/tools/test_data.txt filter=lfs diff=lfs merge=lfs -text
+Lab_3/dt2118_lab2_2015-04-30/tidigits/ filter=lfs diff=lfs merge=lfs -text
