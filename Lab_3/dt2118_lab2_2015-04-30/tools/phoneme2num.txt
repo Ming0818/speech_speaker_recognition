@@ -1,0 +1,23 @@
+ah	0
+ao	1
+ay	2
+eh	3
+ey	4
+f	5
+hh	6
+ih	7
+iy	8
+k	9
+n	10
+ow	11
+r	12
+s	13
+sil	14
+sp	15
+t	16
+th	17
+uw	18
+v	19
+w	20
+z	21
+
