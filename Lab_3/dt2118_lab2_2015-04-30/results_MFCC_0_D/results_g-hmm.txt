@@ -1,0 +1,27 @@
+HResults -A -p -I workdir/test_word.mlf workdir/words.lst results_MFCC_0_D/recout_test.mlf 
+====================== HTK Results Analysis =======================
+  Date: Sun May 17 18:24:17 2015
+  Ref : workdir/test_word.mlf
+  Rec : results_MFCC_0_D/recout_test.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=90.25 [H=7852, S=848, N=8700]
+WORD: %Corr=97.51, Acc=96.50 [H=27872, D=228, S=483, I=290, N=28583]
+------------------------ Confusion Matrix -------------------------
+       o   z   o   t   t   f   f   s   s   e   n 
+       h   e   n   w   h   o   i   i   e   i   i 
+           r   e   o   r   u   v   x   v   g   n 
+           o           e   r   e       e   h   e 
+                       e               n   t      Del [ %c / %e]
+  oh 2270  6   4   5   0  83  42   0   6   8  15  118 [93.1/0.6]
+zero   0 2566  0   9   7   0   1   0  21   1   0    4 [98.5/0.1]
+ one   1   0 2579  0   0   7   0   0   0   0   5    9 [99.5/0.0]
+ two  16   0   0 2574  5   0   0   0   4  10   1   15 [98.6/0.1]
+thre   0   0   0   5 2598  0   0   0   0   3   0    1 [99.7/0.0]
+four   4   0   5   0   0 2579  9   0   0   0   0    2 [99.3/0.1]
+five   1   0   4   0   0   1 2574  0   0   0  17    2 [99.1/0.1]
+ six   0   0   0   1   0   0   1 2598  4   5   0    1 [99.6/0.0]
+seve   6   0   2   2   0   0   1   1 2588  0   0    0 [99.5/0.0]
+eigh   0   0  10  14  20   2   0   8   6 2476 10   68 [97.3/0.2]
+nine  20   0  41   0   0   0  21   0   2   0 2470   8 [96.7/0.3]
+Ins  105   1   6  69   2   9  15   4   3  67   9
+===================================================================

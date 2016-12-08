@@ -1,0 +1,108 @@
+HResults -A -p -I workdir/test_word.mlf workdir/words.lst results_MFCC_0_D_A/recout_test_nmix2.mlf 
+====================== HTK Results Analysis =======================
+  Date: Tue May 12 17:21:33 2015
+  Ref : workdir/test_word.mlf
+  Rec : results_MFCC_0_D_A/recout_test_nmix2.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=89.79 [H=7812, S=888, N=8700]
+WORD: %Corr=98.45, Acc=96.37 [H=28141, D=117, S=325, I=595, N=28583]
+------------------------ Confusion Matrix -------------------------
+       o   z   o   t   t   f   f   s   s   e   n 
+       h   e   n   w   h   o   i   i   e   i   i 
+           r   e   o   r   u   v   x   v   g   n 
+           o           e   r   e       e   h   e 
+                       e               n   t      Del [ %c / %e]
+  oh 2380  2   1   5   1  59  13   0   4   4  20   68 [95.6/0.4]
+zero   3 2585  0  10   6   0   1   0   3   1   0    0 [99.1/0.1]
+ one   1   0 2582  0   0   5   0   0   0   0   8    5 [99.5/0.0]
+ two  15   1   0 2581  6   1   0   0   0   7   0   14 [98.9/0.1]
+thre   0   0   0   6 2589  0   0   0   0   9   0    3 [99.4/0.1]
+four   1   0   0   0   0 2586 11   0   0   0   0    1 [99.5/0.0]
+five   2   0   1   2   0   1 2579  0   0   0  14    0 [99.2/0.1]
+ six   0   0   0   1   0   0   0 2608  0   0   0    1 [100.0/0.0]
+seve   2   0   1   0   1   1   0   0 2595  0   0    0 [99.8/0.0]
+eigh   2   0   7  12  14   1   0   8   3 2535  8   24 [97.9/0.2]
+nine   9   0  16   0   3   0  12   0   0   0 2521   1 [98.4/0.1]
+Ins  243   0   6  96   3   8  10   4   2 204  19
+===================================================================
+HResults -A -p -I workdir/test_word.mlf workdir/words.lst results_MFCC_0_D_A/recout_test_nmix4.mlf 
+====================== HTK Results Analysis =======================
+  Date: Tue May 12 17:24:22 2015
+  Ref : workdir/test_word.mlf
+  Rec : results_MFCC_0_D_A/recout_test_nmix4.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=93.18 [H=8107, S=593, N=8700]
+WORD: %Corr=99.02, Acc=97.68 [H=28304, D=79, S=200, I=384, N=28583]
+------------------------ Confusion Matrix -------------------------
+       o   z   o   t   t   f   f   s   s   e   n 
+       h   e   n   w   h   o   i   i   e   i   i 
+           r   e   o   r   u   v   x   v   g   n 
+           o           e   r   e       e   h   e 
+                       e               n   t      Del [ %c / %e]
+  oh 2466  4   0   2   0  18   5   0   5   3   8   46 [98.2/0.2]
+zero   2 2598  0   3   3   0   0   0   3   0   0    0 [99.6/0.0]
+ one   0   0 2596  0   0   2   0   0   0   0   3    0 [99.8/0.0]
+ two   6   0   0 2605  4   0   0   0   0   4   0    6 [99.5/0.0]
+thre   0   0   0   6 2595  0   0   0   0   4   0    2 [99.6/0.0]
+four   5   0   0   0   0 2586  8   0   0   0   0    0 [99.5/0.0]
+five   6   0   0   0   0   1 2576  0   0   0  16    0 [99.1/0.1]
+ six   0   0   0   0   0   0   0 2605  4   0   0    1 [99.8/0.0]
+seve   3   0   1   0   0   0   0   0 2596  0   0    0 [99.8/0.0]
+eigh   2   0   9  10   7   0   0   7   3 2544  8   24 [98.2/0.2]
+nine  11   0   7   0   0   0   7   0   0   0 2537   0 [99.0/0.1]
+Ins  163   0   6  66   1   3   2   3   0 127  13
+===================================================================
+HResults -A -p -I workdir/test_word.mlf workdir/words.lst results_MFCC_0_D_A/recout_test_nmix8.mlf 
+====================== HTK Results Analysis =======================
+  Date: Tue May 12 17:29:18 2015
+  Ref : workdir/test_word.mlf
+  Rec : results_MFCC_0_D_A/recout_test_nmix8.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=94.94 [H=8260, S=440, N=8700]
+WORD: %Corr=99.40, Acc=98.31 [H=28411, D=57, S=115, I=311, N=28583]
+------------------------ Confusion Matrix -------------------------
+       o   z   o   t   t   f   f   s   s   e   n 
+       h   e   n   w   h   o   i   i   e   i   i 
+           r   e   o   r   u   v   x   v   g   n 
+           o           e   r   e       e   h   e 
+                       e               n   t      Del [ %c / %e]
+  oh 2489  3   0   2   0  16   1   0   4   4   3   35 [98.7/0.1]
+zero   0 2606  0   1   1   0   0   0   1   0   0    0 [99.9/0.0]
+ one   0   0 2599  0   0   1   0   0   0   0   1    0 [99.9/0.0]
+ two   1   0   0 2615  3   0   0   0   0   0   0    6 [99.8/0.0]
+thre   0   0   0   4 2602  0   0   0   0   1   0    0 [99.8/0.0]
+four   3   0   0   0   0 2594  2   0   0   0   0    0 [99.8/0.0]
+five   4   0   0   0   0   0 2588  0   0   0   7    0 [99.6/0.0]
+ six   0   0   0   0   0   0   0 2607  2   0   0    1 [99.9/0.0]
+seve   2   0   2   0   0   0   0   0 2596  0   0    0 [99.8/0.0]
+eigh   1   0   7   3   6   0   0   4   2 2571  5   15 [98.9/0.1]
+nine  10   0   5   0   0   0   3   0   0   0 2544   0 [99.3/0.1]
+Ins  150   1   9  49   0   2   3   1   0  83  13
+===================================================================
+HResults -A -p -I workdir/test_word.mlf workdir/words.lst results_MFCC_0_D_A/recout_test_nmix16.mlf 
+====================== HTK Results Analysis =======================
+  Date: Tue May 12 17:36:43 2015
+  Ref : workdir/test_word.mlf
+  Rec : results_MFCC_0_D_A/recout_test_nmix16.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=96.00 [H=8352, S=348, N=8700]
+WORD: %Corr=99.59, Acc=98.66 [H=28465, D=46, S=72, I=265, N=28583]
+------------------------ Confusion Matrix -------------------------
+       o   z   o   t   t   f   f   s   s   e   n 
+       h   e   n   w   h   o   i   i   e   i   i 
+           r   e   o   r   u   v   x   v   g   n 
+           o           e   r   e       e   h   e 
+                       e               n   t      Del [ %c / %e]
+  oh 2501  2   0   3   0  10   0   0   5   3   2   31 [99.0/0.1]
+zero   0 2607  0   1   0   0   0   0   1   0   0    0 [99.9/0.0]
+ one   0   0 2601  0   0   0   0   0   0   0   0    0
+ two   0   0   0 2622  1   0   0   0   0   0   0    2 [100.0/0.0]
+thre   0   0   0   6 2601  0   0   0   0   0   0    0 [99.8/0.0]
+four   3   0   1   0   0 2593  2   0   0   0   0    0 [99.8/0.0]
+five   0   0   0   0   0   0 2594  0   0   0   5    0 [99.8/0.0]
+ six   0   0   0   0   0   0   0 2610  0   0   0    0
+seve   2   0   1   1   0   0   0   0 2596  0   0    0 [99.8/0.0]
+eigh   0   0   3   3   0   0   0   1   2 2590  2   13 [99.6/0.0]
+nine   7   0   3   0   0   0   2   0   0   0 2550   0 [99.5/0.0]
+Ins  128   1   5  46   0   2   5   1   0  64  13
+===================================================================
